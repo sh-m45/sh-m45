@@ -114,5 +114,5 @@
   
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/manarshahin48"><img alt="Manar Shahin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=manarshahin48&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/manarshahin48"><img alt="Shrouk Mamdoh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sh-m45&custom_title=Manar%20Shahin%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
