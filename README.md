@@ -102,10 +102,6 @@
 
  
 <p align="center">
-
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh-m45&show_icons=true&locale=en&layout=compact" alt="most used languages" />
-
-  
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh-m45&show_icons=true&locale=en" alt="sh-m45" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh-m45&show_icons=true&locale=en" alt="sh-m45" /></p>
