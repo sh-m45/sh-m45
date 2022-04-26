@@ -107,7 +107,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shrouk Mamdoh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sh-m45&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh-m45&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Manar Shahin" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh-m45&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Manar Shahin" height="192px" width="600px"/>
   <br/>
   
   </p>
