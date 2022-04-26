@@ -15,8 +15,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
+  &emsp;
 <a href="https://twitter.com/shroukmamdoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shroukmamdoh" height="30" width="40" /></a>
+  &emsp;
 <a href="https://linkedin.com/in/shrouk-mamdoh-36510720a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrouk-mamdoh-36510720a" height="30" width="40" /></a>
+  &emsp;
 <a href="https://fb.com/shrouk.mamdoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shrouk.mamdoh" height="30" width="40" /></a>
 </p>
 <h3> 🔥 Streak Stats </h3>
