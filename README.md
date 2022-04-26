@@ -97,12 +97,9 @@
     <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
 </p>
 
-
-
-
- 
+ <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sh-m45&show_icons=true&locale=en&layout=compact" alt="most used languages" />
 </p>
-<br>
+
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sh-m45&show_icons=true&locale=en" alt="sh-m45" /></p>
