@@ -24,7 +24,7 @@
 </p>
 
 <h3>🔥 Streak Stats </h3>
-## .
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sh-m45&theme=algolia" /></p>
 
 <br>
@@ -102,7 +102,7 @@
 
 
 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><h3>💻 GitHub Profile Stats</h3></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Shrouk Mamdoh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sh-m45&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
