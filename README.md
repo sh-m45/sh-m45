@@ -22,7 +22,7 @@
   &emsp;
 <a href="https://fb.com/shrouk.mamdoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shrouk.mamdoh" height="30" width="40" /></a>
 </p>
-<h3> 🔥 Streak Stats </h3> <hr>
+## 🔥 Streak Stats 
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sh-m45&theme=algolia" /></p>
 
