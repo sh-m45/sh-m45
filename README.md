@@ -24,8 +24,8 @@
 </p>
 
 <h3>🔥 Streak Stats </h3>
-
-## <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sh-m45&theme=algolia" /></p>
+## .
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sh-m45&theme=algolia" /></p>
 
 <br>
 
