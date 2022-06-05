@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1EkBm_p3PK809S_QRtlF0iZU4DUQHiVfK/view?usp=sharing)
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif"> Connect with me
+## Connect with me
 <p align="center">
   &emsp;
 <a href="https://twitter.com/shroukmamdoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shroukmamdoh" height="30" width="40" /></a>
