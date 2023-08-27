@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shrouk Mamdoh</h1>
 <h3 align="center">A junior frontend developer from Egypt</h3>
+  
+- I'm currently working as frontend developer at tecnomedic company
 
-- 🔭 I’m currently working at **Information Technology Institute(ITI)**
+- 🔭 I graduated from **Information Technology Institute(ITI)**
 
 - 🌱 I’m currently learning **Backend in ITI**
 
